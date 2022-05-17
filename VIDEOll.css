@@ -1,0 +1,23 @@
+body {
+background-image: url(https://images.unsplash.com/photo-1541450711770-551bbd9ab9d6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80);
+background-size: contain;
+background-repeat: repeat;
+background-position: top;
+}
+
+h1 {
+    color: gray;
+    position: relative; left: 75vh;
+    font-size: 7vh;
+  
+}
+
+h2 {
+    color: gray;
+    font-size: 4vh;
+    position: relative; left: 83vh;
+}
+
+.VIDEO {
+    position: relative; left: 58vh;
+}
